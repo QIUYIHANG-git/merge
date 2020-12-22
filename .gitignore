@@ -3,7 +3,11 @@ node_modules
 /dist
 
 [http]
+<<<<<<< HEAD
 postBuffer = 524288000
+=======
+postBiffer = 524288000
+>>>>>>> 24022b84aac615350450578903a975f8a075cd99
 
 # local env files
 .env.local
