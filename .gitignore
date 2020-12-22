@@ -3,7 +3,7 @@ node_modules
 /dist
 
 [http]
-postBuffer = 524288000
+postBuffer = 10485760000
 # local env files
 .env.local
 .env.*.local
