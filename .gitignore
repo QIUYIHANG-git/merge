@@ -4,7 +4,6 @@ node_modules
 
 [http]
 postBuffer = 524288000
-
 # local env files
 .env.local
 .env.*.local
